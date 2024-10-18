@@ -1,6 +1,6 @@
 # Circuitry
 
-Circuitry is a package that implements the tests proposed in the 2024 NeurIPS paper Hypothesis Testing The Circuit Hypothesis in LLMs.
+Circuitry is a package that implements the tests proposed in the 2024 NeurIPS paper [Hypothesis Testing The Circuit Hypothesis in LLMs](https://arxiv.org/abs/2410.13032).
 These tests aim to check:
 
 1. Mechanism Preservation: The performance of an idealized circuit should match that of the original model.
