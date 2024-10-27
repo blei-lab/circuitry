@@ -63,11 +63,10 @@ Shi, C., Beltran-Velez, N., Nazaret, A., Zheng, C., Garriga-Alonso, A., Jesson, 
 # BibTex
 Please use the following BibTex entry when citing our work.
 ```
-@inproceedings{
-shi2024hypothesis,
-title={Hypothesis Testing the Circuit Hypothesis in {LLM}s},
-author={Claudia Shi and Nicolas Beltran-Velez and Achille Nazaret and Carolina Zheng and Adri{\`a} Garriga-Alonso and Andrew Jesson and Maggie Makar and David Blei},
-booktitle={NeurIPS},
-year={2024},
+@article{shi2024hypothesis,
+  title={Hypothesis testing the circuit hypothesis in llms},
+  author={Shi, Claudia and Beltran-Velez, Nicolas and Nazaret, Achille and Zheng, Carolina and Garriga-Alonso, Adri{\`a} and Jesson, Andrew and Makar, Maggie and Blei, David M},
+  journal={arXiv preprint arXiv:2410.13032},
+  year={2024}
 }
 ```
