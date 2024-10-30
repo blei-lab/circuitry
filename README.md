@@ -55,6 +55,12 @@ root
 - `paper_experiments/figures/pdf` contains the pdf figures of the paper.
 - `tests` contains unit tests for the code.
 
+### Note on results
+Some results in the final version of NeurIPS are different than in a version published on ICML MechInterp Workshop 2024.
+This is due to a refactor of the codebase that we did to improve efficiency and not use outside dependencies.
+While doing this refactor we also updated our way of counting edges to only count edges adjacent to nodes in the residual stream.
+Despite these differences the methodology and the main message of the paper remains the same.
+Please use the updated implementation and NeurIPS version of the paper for reference.
 
 ### Citation (APA)
 
